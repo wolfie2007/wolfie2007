@@ -1,5 +1,7 @@
 # 💫 About Me:
-I would love to build and do deep dive in cybersecurity
+M Waqas Ameer | BS Computer Science (Batch 29) at Air University Islamabad.
+I work with C++ and JavaScript and enjoy building applications and cybersecurity tools.
+Focused on strengthening core CS skills and practical development.
 
 
 ## 🌐 Socials:
