@@ -16,5 +16,35 @@ text { font-family: 'JBM', monospace; font-size: 12px; fill: #39d353; }
   text { fill: #56d364; }
 }
 </style>
+<text x="34" y="82" opacity="0">:<animate attributeName="opacity" from="0" to="1" begin="0.076s" dur="0.4s" fill="freeze" /></text>
+<text x="238" y="26" opacity="0">:<animate attributeName="opacity" from="0" to="1" begin="0.536s" dur="0.4s" fill="freeze" /></text>
+<text x="250" y="96" opacity="0">:<animate attributeName="opacity" from="0" to="1" begin="0.584s" dur="0.4s" fill="freeze" /></text>
+<text x="262" y="12" opacity="0">:<animate attributeName="opacity" from="0" to="1" begin="0.588s" dur="0.4s" fill="freeze" /></text>
+<text x="262" y="26" opacity="0">#<animate attributeName="opacity" from="0" to="1" begin="0.592s" dur="0.4s" fill="freeze" /></text>
+<text x="262" y="68" opacity="0">:<animate attributeName="opacity" from="0" to="1" begin="0.604s" dur="0.4s" fill="freeze" /></text>
+<text x="262" y="96" opacity="0">:<animate attributeName="opacity" from="0" to="1" begin="0.612s" dur="0.4s" fill="freeze" /></text>
+<text x="274" y="26" opacity="0">:<animate attributeName="opacity" from="0" to="1" begin="0.620s" dur="0.4s" fill="freeze" /></text>
+<text x="274" y="54" opacity="0">+<animate attributeName="opacity" from="0" to="1" begin="0.628s" dur="0.4s" fill="freeze" /></text>
+<text x="502" y="40" opacity="0">:<animate attributeName="opacity" from="0" to="1" begin="1.156s" dur="0.4s" fill="freeze" /></text>
+<text x="562" y="96" opacity="0">:<animate attributeName="opacity" from="0" to="1" begin="1.312s" dur="0.4s" fill="freeze" /></text>
+<text x="574" y="12" opacity="0">#<animate attributeName="opacity" from="0" to="1" begin="1.316s" dur="0.4s" fill="freeze" /></text>
+<text x="574" y="82" opacity="0">:<animate attributeName="opacity" from="0" to="1" begin="1.336s" dur="0.4s" fill="freeze" /></text>
+<text x="598" y="82" opacity="0">:<animate attributeName="opacity" from="0" to="1" begin="1.392s" dur="0.4s" fill="freeze" /></text>
+<text x="610" y="54" opacity="0">:<animate attributeName="opacity" from="0" to="1" begin="1.412s" dur="0.4s" fill="freeze" /></text>
+<text x="610" y="68" opacity="0">:<animate attributeName="opacity" from="0" to="1" begin="1.416s" dur="0.4s" fill="freeze" /></text>
+<text x="610" y="82" opacity="0">@<animate attributeName="opacity" from="0" to="1" begin="1.420s" dur="0.4s" fill="freeze" /></text>
+<text x="610" y="96" opacity="0">@<animate attributeName="opacity" from="0" to="1" begin="1.424s" dur="0.4s" fill="freeze" /></text>
+<text x="622" y="12" opacity="0">:<animate attributeName="opacity" from="0" to="1" begin="1.428s" dur="0.4s" fill="freeze" /></text>
+<text x="622" y="26" opacity="0">:<animate attributeName="opacity" from="0" to="1" begin="1.432s" dur="0.4s" fill="freeze" /></text>
+<text x="622" y="40" opacity="0">:<animate attributeName="opacity" from="0" to="1" begin="1.436s" dur="0.4s" fill="freeze" /></text>
+<text x="622" y="54" opacity="0">@<animate attributeName="opacity" from="0" to="1" begin="1.440s" dur="0.4s" fill="freeze" /></text>
+<text x="622" y="82" opacity="0">:<animate attributeName="opacity" from="0" to="1" begin="1.448s" dur="0.4s" fill="freeze" /></text>
+<text x="622" y="96" opacity="0">#<animate attributeName="opacity" from="0" to="1" begin="1.452s" dur="0.4s" fill="freeze" /></text>
+<text x="634" y="12" opacity="0">@<animate attributeName="opacity" from="0" to="1" begin="1.456s" dur="0.4s" fill="freeze" /></text>
+<text x="634" y="26" opacity="0">#<animate attributeName="opacity" from="0" to="1" begin="1.460s" dur="0.4s" fill="freeze" /></text>
+<text x="634" y="40" opacity="0">@<animate attributeName="opacity" from="0" to="1" begin="1.464s" dur="0.4s" fill="freeze" /></text>
+<text x="634" y="54" opacity="0">+<animate attributeName="opacity" from="0" to="1" begin="1.468s" dur="0.4s" fill="freeze" /></text>
+<text x="634" y="68" opacity="0">+<animate attributeName="opacity" from="0" to="1" begin="1.472s" dur="0.4s" fill="freeze" /></text>
+<text x="634" y="82" opacity="0">:<animate attributeName="opacity" from="0" to="1" begin="1.476s" dur="0.4s" fill="freeze" /></text>
 
 </svg>

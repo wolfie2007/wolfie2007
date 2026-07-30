@@ -20,6 +20,6 @@ text { font-family: 'JBM', monospace; }
   .sub { fill: #8b949e; }
 }
 </style>
-<text x="0" y="46" class="num">0<tspan class="cursor">_<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite" /></tspan></text>
+<text x="0" y="46" class="num">218<tspan class="cursor">_<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite" /></tspan></text>
 <text x="2" y="70" class="sub">contributions in the last year</text>
 </svg>
