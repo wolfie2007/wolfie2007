@@ -30,6 +30,10 @@ async function main() {
   const streaks = computeStreaks(days);
   const langs = topLanguages(user.repositories.nodes, 6);
 
+  const activeDays = days.filter(d => d.contributionCount > 0).length;
+  const weeklyTotals = calendar.weeks.map(w => w.contributionDays.reduce((sum, d) => sum + d.contributionCount, 0));
+  const bestWeek = Math.max(...weeklyTotals, 1);
+
   const files = {
     "streak.svg": renderStreak({
       current: streaks.current,
@@ -38,7 +42,7 @@ async function main() {
     }),
     "langs.svg": renderLangs(langs),
     "year.svg": renderYear(days),
-    "stats.svg": renderStats(calendar.totalContributions),
+    "stats.svg": renderStats(calendar.totalContributions, activeDays, bestWeek, weeklyTotals),
   };
 
   for (const [name, content] of Object.entries(files)) {

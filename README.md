@@ -1,6 +1,13 @@
-[![Waqas Ameer](https://github.com/wolfie2007/wolfie2007/raw/main/ascii.svg)](/wolfie2007/wolfie2007/blob/main/ascii.svg) [![Contributions in the last year](https://github.com/wolfie2007/wolfie2007/raw/main/stats.svg)](/wolfie2007/wolfie2007/blob/main/stats.svg)
+<div align="center">
+
+[![Waqas Ameer](https://github.com/wolfie2007/wolfie2007/raw/main/ascii.svg)](/wolfie2007/wolfie2007/blob/main/ascii.svg)
+
+[![Contributions in the last year](https://github.com/wolfie2007/wolfie2007/raw/main/stats.svg)](/wolfie2007/wolfie2007/blob/main/stats.svg)
 
 [waqasameer.vercel.app](https://waqasameer.vercel.app) · [linkedin](https://www.linkedin.com/in/waqas-ameer-024258374) · [instagram](https://www.instagram.com/waqas__2007/) · [email](mailto:waqasameer654@gmail.com)
+
+</div>
+
 
 [![about](https://github.com/wolfie2007/wolfie2007/raw/main/hd-about.svg)](/wolfie2007/wolfie2007/blob/main/hd-about.svg)
 > BSCS @ Air University Islamabad · Building AI products one commit at a time.
