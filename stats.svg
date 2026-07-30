@@ -1,4 +1,4 @@
-<svg viewBox="0 0 340 100" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 620 140" xmlns="http://www.w3.org/2000/svg">
 <style>
 
 @font-face {
@@ -14,12 +14,41 @@
 text { font-family: 'JBM', monospace; }
 .num { font-size: 40px; font-weight: bold; fill: #1f2328; }
 .sub { font-size: 13px; fill: #656d76; }
+.stat-num { font-size: 18px; font-weight: bold; fill: #1f2328; text-anchor: end; }
+.stat-lbl { font-size: 11px; fill: #656d76; text-anchor: end; }
 .cursor { fill: #3fb950; }
+.line { fill: none; stroke: #1f2328; stroke-width: 1.5; }
+.fill { fill: #f6f8fa; }
+.dot { fill: #1f2328; }
 @media (prefers-color-scheme: dark) {
   .num { fill: #e6edf3; }
+  .stat-num { fill: #e6edf3; }
   .sub { fill: #8b949e; }
+  .stat-lbl { fill: #8b949e; }
+  .line { stroke: #c9d1d9; }
+  .fill { fill: #21262d; }
+  .dot { fill: #c9d1d9; }
 }
 </style>
-<text x="0" y="46" class="num">218<tspan class="cursor">_<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite" /></tspan></text>
+<text x="0" y="46" class="num">218</text>
 <text x="2" y="70" class="sub">contributions in the last year</text>
+
+<text x="616" y="20" class="stat-num">30</text>
+<text x="616" y="36" class="stat-lbl">active days</text>
+<text x="616" y="60" class="stat-num">72</text>
+<text x="616" y="76" class="stat-lbl">best week</text>
+
+<clipPath id="reveal">
+  <rect x="0" y="80" width="0" height="60">
+    <animate attributeName="width" from="0" to="620" dur="1s" fill="freeze" />
+  </rect>
+</clipPath>
+
+<g clip-path="url(#reveal)">
+  <polygon points="0,140 0.0,135.0 11.9,135.0 23.8,134.4 35.8,135.0 47.7,135.0 59.6,135.0 71.5,135.0 83.5,135.0 95.4,135.0 107.3,135.0 119.2,135.0 131.2,135.0 143.1,135.0 155.0,135.0 166.9,135.0 178.8,135.0 190.8,135.0 202.7,135.0 214.6,135.0 226.5,133.9 238.5,132.8 250.4,124.4 262.3,130.0 274.2,135.0 286.2,135.0 298.1,135.0 310.0,135.0 321.9,135.0 333.8,135.0 345.8,135.0 357.7,135.0 369.6,135.0 381.5,135.0 393.5,135.0 405.4,135.0 417.3,135.0 429.2,135.0 441.2,135.0 453.1,135.0 465.0,135.0 476.9,135.0 488.8,133.3 500.8,135.0 512.7,135.0 524.6,135.0 536.5,135.0 548.5,134.4 560.4,125.0 572.3,135.0 584.2,134.4 596.2,110.6 608.1,110.6 620.0,95.0 620,140" class="fill" />
+  <polyline points="0.0,135.0 11.9,135.0 23.8,134.4 35.8,135.0 47.7,135.0 59.6,135.0 71.5,135.0 83.5,135.0 95.4,135.0 107.3,135.0 119.2,135.0 131.2,135.0 143.1,135.0 155.0,135.0 166.9,135.0 178.8,135.0 190.8,135.0 202.7,135.0 214.6,135.0 226.5,133.9 238.5,132.8 250.4,124.4 262.3,130.0 274.2,135.0 286.2,135.0 298.1,135.0 310.0,135.0 321.9,135.0 333.8,135.0 345.8,135.0 357.7,135.0 369.6,135.0 381.5,135.0 393.5,135.0 405.4,135.0 417.3,135.0 429.2,135.0 441.2,135.0 453.1,135.0 465.0,135.0 476.9,135.0 488.8,133.3 500.8,135.0 512.7,135.0 524.6,135.0 536.5,135.0 548.5,134.4 560.4,125.0 572.3,135.0 584.2,134.4 596.2,110.6 608.1,110.6 620.0,95.0" class="line" />
+</g>
+<circle cx="620" cy="95" r="2.5" class="dot">
+  <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.99;1" dur="1s" fill="freeze" />
+</circle>
 </svg>
