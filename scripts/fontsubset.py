@@ -20,7 +20,7 @@ def subset_font_base64(characters: str, weight: str = "Regular") -> str:
         out = os.path.join(tmp, "subset.woff2")
         subprocess.run(
             [
-                "fonttools", "subset", src,
+                r"C:\Users\Rizwan computers\AppData\Local\Python\pythoncore-3.11-64\Scripts\fonttools.exe", "subset", src,
                 f"--text={uniq}",
                 "--flavor=woff2",
                 "--no-hinting",
