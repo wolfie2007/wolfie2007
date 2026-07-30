@@ -36,12 +36,4 @@ Desktop file encryption application built with Electron using AES encryption for
 [![Top languages by bytes](https://github.com/wolfie2007/wolfie2007/raw/main/langs.svg)](/wolfie2007/wolfie2007/blob/main/langs.svg)
 [![The last year, one character per day](https://github.com/wolfie2007/wolfie2007/raw/main/year.svg)](/wolfie2007/wolfie2007/blob/main/year.svg)
 
-[![about this page](https://github.com/wolfie2007/wolfie2007/raw/main/hd-about-this-page.svg)](/wolfie2007/wolfie2007/blob/main/hd-about-this-page.svg)
 
-Every graphic here is generated, not embedded from anyone else's server. `ascii.svg` is this photo pushed through a character-density ramp; `streak.svg`, `langs.svg`, `year.svg`, and `stats.svg` are drawn by [a scheduled action](/wolfie2007/wolfie2007/blob/main/.github/workflows/stats.yml) straight from the GitHub GraphQL API, once a day, committing only what changed.
-
-They animate with SMIL inside the SVG, because GitHub strips scripts from READMEs — and since nothing loads from a third party, nothing here can rate-limit or go dark. The headings are SVGs for the same reason: GitHub also strips CSS, so an image is the only way to put this page's own typeface on them.
-
-The typeface is [JetBrains Mono](/wolfie2007/wolfie2007/blob/main/scripts/fonts_src), subset to just the characters each graphic draws and inlined as base64.
-
-Language totals cover public repositories only. `year.svg` uses a character ramp — `:` `+` `#` `@` — quiet to loud.
