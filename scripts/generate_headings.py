@@ -34,7 +34,7 @@ def build(label: str, out_path: str):
     height = round(FONT_SIZE * 1.5, 1)
     baseline = round(height * 0.68, 1)
 
-    svg = f'''<svg viewBox="0 0 {width} {height}" xmlns="http://www.w3.org/2000/svg">
+    svg = f'''<svg width="{width}" height="{height}" viewBox="0 0 {width} {height}" xmlns="http://www.w3.org/2000/svg">
 <style>
 @font-face {{
   font-family: 'JBMB';
@@ -45,9 +45,10 @@ text {{
   font-weight: bold;
   font-size: {FONT_SIZE}px;
 }}
-.prompt {{ fill: #3fb950; }}
+.prompt {{ fill: #57606a; }}
 .label {{ fill: #1f2328; }}
 @media (prefers-color-scheme: dark) {{
+  .prompt {{ fill: #8b949e; }}
   .label {{ fill: #e6edf3; }}
 }}
 </style>
