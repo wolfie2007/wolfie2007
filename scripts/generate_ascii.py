@@ -37,7 +37,7 @@ def build(input_path: str, output_path: str, cols: int = 90):
     for y in range(rows):
         row_chars = []
         for x in range(cols):
-            b = pixels[x, y] / 255.0
+            b = 1.0 - (pixels[x, y] / 255.0)
             idx = round(b * (len(RAMP) - 1))
             ch = RAMP[idx]
             row_chars.append(ch)
