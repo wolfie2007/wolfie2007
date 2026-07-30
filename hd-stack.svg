@@ -1,0 +1,19 @@
+<svg viewBox="0 0 94.8 30.0" xmlns="http://www.w3.org/2000/svg">
+<style>
+@font-face {
+  font-family: 'JBMB';
+  src: url(data:font/woff2;base64,d09GMgABAAAAAAVIAA4AAAAADAQAAATzAAJN0wAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIByEAAZgAFwRCAqKOIkgATYCJAMcCxwABCAFhA4HIBtdClFUUX4QfJFgU1H3HGxRlMpCtofRWNjruzXmYggvyu3jit8F/w/7uXPfuxNHzPIyJpVEW2yj0VgKhERIZqXv/3yd9v7U85MuNamQFNYgtaIpoHRPIk/rwgvgVvD8v7f7/mYTH0EngShJA8nimFKqzKeV7H+A/fVWv5/a/S5AMhOPysXICB31Qvfzg2ihrUQOFQBdjCySxPH1kZWpqmZbU3Pq0m0OlcAJF15TawCBJgAIIiUiULdgLbSeRySALgOKuQBAoG6DC4LXWf/s8aWgz4YejI5eMQ+6wCBVNLUtKU6ram9mVlL9Url9dFWZNpAqZRuusropBmwgZWr6A0goe6E5G2OHh+NKFHV1FEQOiQ9CKUL7OWZchLQIIqm0EWIUqjZp0uhSVWwO+Oxm8gIp9ewpP0R7MR9xslvkKATzhBxOqqoYTp5aXcPasfVrVAs0avOctgRPl0urvh2M9eOObvnZ4no038/FxTVaiIeyADc4XTt2OQQCNQNTOfd6AWCAwrfp4WDYuKy4/WLGG1h5/uaQYEJ4RL+r6RLQVhXKVhjKkKUI/8/FOlQfYf4NPHpwHzJIiTz/vgOgBWAOsAj0Ii4AAP8bnHqHZGVVc+lYah1MLHjFtrI1PdzIItxlJd09jJpGMJ48iOx+uJwcGcE9Q0CQaNcg0zOAENl9DRofZRxmX/a1H3osTe54THY/Bbif4Z4n6/DgINbCBGYxJyUZElyaEG68jnUb1HTFiRlOY/PPbLlChj3gsDE9NASNg6TQZz8NEmGEAQNJHGiLMWCWRGMpTpACKSJZIQn1w6yAECCsRSIhIeQ2JQpAiPnjCuIV8rGNKb5Ag8sYb6F/qXEKx6P5eNVxxxWicPwJBKA8KiErKIBX+6GXkJ4aGVOSmt5uGp9hZSuu1Ajlk7IKVBnSsuq8bNp9dY7zf2vfRvMZI2MrcKgF5zu4pvt1+0lm7hucV1tIJNVYnBDbb7Dvsd9oL9lhUUMkbb5FiBuv6+WaR3r26B1apW57y72DxdVMBRdRQ722sLJG1NrVRp0LfHWD4v2j8uIyxcmyeBRYq3fDWGy2fvWKj88bF4TrRnDhMcVMAWRFJnIR8zcpNm2t3zqhmBAuP7F8rwIiRdcj6MS1Zxk6R3SdE11Xd8wiScPSuZSrH0nJQnXnVju9VzOr5aqtD7aqlhtkq1a6D+hzTpxv/DvFUucYXGc96tnoF2t0DCJQNsFATVKysL9r7H9w9uXaYXjpWbEwBAaeeBqFk0w4DUqIGemMwzDsgQIKYvI3IOiIjMH1/tloSD8FKGU0hAJIWJGXDTtGVBZ01DreZ9VQA6TgzNaApMjl5QAQABU5sPC2cW3aPI//uh0KjU+A70+5VfNb81scDuUx43SQsvB2vLDB2FiiIqnAO/iPFUciN+Hi+DJk+ElmPr3vFAAEWrmkVA3tGMgWoOJupV/XA3gCpJUF17Sh6kWbul5pbStT2pLbeDyvbCN9/mTkqigVyJOPR7FjM05REnaQU5PC5OD5UcpQoJQKJZJMKRlKDCWZQjmy8Ci+yvDyySipUMzk4/HkVNxISOQpYNanTCaxLDIlJNkK71H+yZtX9/n6kSmWzY6YPRsO3IXx4x7Zb+1dyrWJDcZ+UU8BYyyV00NdPJMr40kyMvnCw7fNy9kScxlzDsbOrDnK3nIm8yozNHSWFTnsAAIAAAA=) format('woff2');
+}
+text {
+  font-family: 'JBMB', monospace;
+  font-weight: bold;
+  font-size: 20px;
+}
+.prompt { fill: #3fb950; }
+.label { fill: #1f2328; }
+@media (prefers-color-scheme: dark) {
+  .label { fill: #e6edf3; }
+}
+</style>
+<text x="4" y="20.4"><tspan class="prompt">#</tspan><tspan class="label"> stack</tspan></text>
+</svg>

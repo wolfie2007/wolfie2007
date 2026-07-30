@@ -1,0 +1,14 @@
+{
+  "name": "wolfie2007-profile",
+  "private": true,
+  "type": "module",
+  "description": "Self-generating GitHub profile README for wolfie2007",
+  "scripts": {
+    "build:stats": "node scripts/build.mjs",
+    "build:ascii": "python3 scripts/generate_ascii.py",
+    "build:headings": "python3 scripts/generate_headings.py"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

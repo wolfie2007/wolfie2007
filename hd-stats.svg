@@ -1,0 +1,19 @@
+<svg viewBox="0 0 94.8 30.0" xmlns="http://www.w3.org/2000/svg">
+<style>
+@font-face {
+  font-family: 'JBMB';
+  src: url(data:font/woff2;base64,d09GMgABAAAAAATEAA4AAAAAC2AAAARyAAJN0wAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIByEAAZgAEwRCAqJLIg1ATYCJAMYCxgABCAFhA4HIBveCSieA27LDCHq1FOPck33nrboYij4r5bt/Z7e1HN3hBCF2qI8CiwKJ1Aai7DJ5uDQGHP7f3XZr5keMlBFRiPx0J2FdJLu5DHvvhJ4Htu9fwRzpVCUajNVJimqlIQupEr+l21ZsaZ2PwpQZuJRuRgZoaP4PkRlVsgBViV2qZB1CA7IuAiZjge2FUrVrNxmWyBYapYzeUEeINADAEYkEYGwKBZaW7qGQMgBHQBAIGwqwxG1ym8D62VWyuj+ugxuFoTAQVLpGVjmzgrmeYJWsPSTZpnH87bpJHwgNWU3znNhWoI8iNPjZQHEOAcShIdFbsmIbC7sAY4HTt2hCj3z0pRpIxhLSFaCTaRcJ0GJRUxlAsi3jvxCErh3lnXonaPOADMjTSQ4S0iTSVqzybS1IUHJkUWuQI7Muc+EhS1+nJxdCyZ6TuxrVZQ0wncoDOciPNizbgTg8HG0TihIHYChMWjLiQcLAKdgbPNv+AnMi5UlfIRNnDsAq/jAQAKTuLS6PmEPEGrGrEpkwP5gB6Ftu3+P7bfZc5lI+vsjADKAacAC0AvYDACA/wgPMokr1YD5mqWNJjBBZBEEUUUMwi5iALnuBlr6I5FM7xXrHsPFN29K1n+B9Wj/J7X+KkLidZcseTJcLZUsubr71r9Q43lL3dA0cAcp3nkewtazLfL69U/Zp1h2r+WKkWQE+KIc98wSyLsYsUAyJIDgimn7KAonoaUcKZLwxEjGkQnbRqTQr+KUUmthNMwzsm4nwRjSqLWjshLeGq1SzbOaRoZw1tNIQV6kMloaBv/GB9HQ1ER3n2dialXqoCErP2cOt50dNTlChuHpeTYzWRltKf2eXb8k/X9SchZoO2OA6ZqPH2dkZSMcG520RlUvbBls7LENGHPGfIOoeYHo8lZO2pboiJdXlqg6hV1MZ5+bcoBpG2G6lNsD23ed7LobuCsLPxx+KADd46UuciT2BEVayMa8nJvmhgOMymnSim2bUZqr3tQ5Nqk817Ss8NCumV2h8ATzq5twhjxZwmgWv8cSmSXhEu3cNE98sEOXEA+MNWBCaa56c9e6+frEw9hJQH+imZ5ms+n/IbyLtP9A7vBf8L9oEjbhGMAim75d0FQkXNo8TwTnWUAgiWAIwKfjXbTRpPigIJAJak9swiaAAEoNO0ACVPZ0AEDAtquXO+cMTCqqvgsV3FcA/L2yzl1daV/+u27ot/8+BUjJdC1/OZ8dEm7XEsjwV6kwMKJCvUSJX+7/V3+3/G4CAIGcs3jNx9dG6gIqx+tRrQjgEiCFLLqoMLVfRdJ6pHDb0SsKR6l6XGkzW2jk4zdXkIONHQsrkDcrw4b2GUs+drBgNQgycPAKwbr5ePlgfYJ8nCxMWFi9aSw7n6AQLI0di+UXUiFXLhuHrDDTjHKY+Hjk+gp/Qt4zT4/t423g42ZWIEehPEUqdWhQadeTrRtN1iQFZc7T6ThPxh6dOO8KK0NFKnzsjZPlzrPky1E2Y4o0S2UrZl61UXqMFbg6/boVAAQ=) format('woff2');
+}
+text {
+  font-family: 'JBMB', monospace;
+  font-weight: bold;
+  font-size: 20px;
+}
+.prompt { fill: #3fb950; }
+.label { fill: #1f2328; }
+@media (prefers-color-scheme: dark) {
+  .label { fill: #e6edf3; }
+}
+</style>
+<text x="4" y="20.4"><tspan class="prompt">#</tspan><tspan class="label"> stats</tspan></text>
+</svg>

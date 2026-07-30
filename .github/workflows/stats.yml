@@ -1,0 +1,41 @@
+name: Update profile stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # daily at 03:00 UTC
+  workflow_dispatch: {}     # allow manual runs from the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate stats SVGs
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+          PROFILE_LOGIN: wolfie2007
+        run: node scripts/build.mjs
+
+      - name: Commit changes if any
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add streak.svg langs.svg year.svg stats.svg
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update profile stats [automated]"
+            git push
+          fi

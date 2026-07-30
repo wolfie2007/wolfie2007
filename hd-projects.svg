@@ -1,0 +1,19 @@
+<svg viewBox="0 0 132.0 30.0" xmlns="http://www.w3.org/2000/svg">
+<style>
+@font-face {
+  font-family: 'JBMB';
+  src: url(data:font/woff2;base64,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) format('woff2');
+}
+text {
+  font-family: 'JBMB', monospace;
+  font-weight: bold;
+  font-size: 20px;
+}
+.prompt { fill: #3fb950; }
+.label { fill: #1f2328; }
+@media (prefers-color-scheme: dark) {
+  .label { fill: #e6edf3; }
+}
+</style>
+<text x="4" y="20.4"><tspan class="prompt">#</tspan><tspan class="label"> projects</tspan></text>
+</svg>

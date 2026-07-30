@@ -1,0 +1,19 @@
+<svg viewBox="0 0 94.8 30.0" xmlns="http://www.w3.org/2000/svg">
+<style>
+@font-face {
+  font-family: 'JBMB';
+  src: url(data:font/woff2;base64,d09GMgABAAAAAAUIAA4AAAAAC+gAAAS0AAJN0wAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIByEAAZgAFQRCAqKJIkJATYCJAMcCxwABCAFhA4HIBs+CiMR5mtzFIK/WjDd7qDcCybHVGNh0nXcvpE1FKUQvcU/zxzB82vpvLf/Nne7e1EFIB1VZAWARiT2hG5ZVThAjeBqa1x+vk57g7DWDyoiaB2wiGYKYNKFj3tfH9trbyvoVGHBbs8BYAIYeJfW0/ngkLsABs1TaGteAPjFfq2+badYuqFrapRIyKTT/bK4RTE5Q0TbkRrerYk2vFqIhIQu2m4WRmNNRPvnCxDoACmEnhBoLBAM27m7pgW4CkwHQKCxQgac6+h85yI1AM40YWePyxf7KOCioDKmM26Rvpg36g02r6N+YYOO8KijcQ0boS/iLo4qGrMIJcDUIukLIdUmdDMJ3YYGUriuPAw/wrSV1nNoO0+EDBUVJQtVbkGOIKFF6GRk71INgfrwJOEvEGbvpf6ItnEKNFFXqEYQKiyohkpEXw6VvQOhk9HNM0ID7dVkZ8WQCZZHc9bA6PK5I4e20lpc4eiSJ3ILixylHDigT4E4J2kFIBloJQ777t8O4CEgdLV3UIAyD4thL5Cr8CeAJdhIVJiBEOFFSFuBTl8qlhBRMqGnA6OkAPXVXi85ucDzFWI6LmAI5gGLQbwD8gYABZBSCiFVilof5h0PZ+fxGe6BJCLJDSRZNpIty8Fy5UdHsJk/Dg4x1ax+9OU/nMPaL8CbePhTuhaGNaNXMH1dsUoI/F7ryBMuByaTjKnv0L6OarcXOuADQ04VRBNtB7o1OfnUwcHFuYw2F2kOa5wDtT8dZA3WNbctZmgMjUw7Hf6cw/EO76LtNTHMIVt1yhGGLT+mo58Xi6vL/lqCBKQYx93ul493P9ZjjfqO4wRv/uM4go+JcJI5esEn+MFr6emqbejv6lkMb1bEJMYNE5VUu8pgU7TSozq1JDtQk/4/tnA6cl8cGgOdvKzazLfq0ScTZ4mJv3WZmY0Ki+JEj9Iy2ZtQnMakFSckVKbOp1ZCNNc4NqiZ1o7RxriC1k5rRnsb+pK0Kcsp2qTy3kBV2yavcT1tOX1u8txTy1Mn3wu+5y0QzTMMURrphCQlMyG+MkUyIdWMUFAr2K6RtAVflUo0I6o8E0bZp9AeLZNokWpHQbw7U+vMqt8aEeNrO7dzzuYrVGctuDuSa2lya953RNk0wm2ITBg18sUYL4MACAIgRkG8u72utO9cfRnczvK+GswPpRuPvwfvu4y7B94R++b9lCHYBYYl4Km8gMYJioXbdjUS9p8EnGUkbAUwyQQpsm1HCc4Fjo2Tf5UBAzBDun0MmBnLuDwABPLQj+I7ObPdLjn/uS7Vf4B/n7Qj+lT93AUHZnyf7IGppdn9h2bkCcpweNcATOs/izyhTZZaZUSqiX78/qddXQKAwDCeGTCG7YGqGcacGulTBngFIDFhga2Y1Pc3pjLhVUyxat4xPUci52K1FdtUzMRshJWBjt5NCiUldAtRywxpnq5KQxVZFYYBG6o1DZhQg9Vk1KgoVEhTepPVIBH+R1FmW1Z8vM5A/gytjFOZ+uMP8z7Hx0888nJ/b5GpT50Ul5yQkl1VlO2cFmv259lMQ+p6qBiI0ehIQQ8v1iq+pNikD4Sqmg4mxmV0KSVhemyqevPKyEtmE3XyDjVJABgAAA==) format('woff2');
+}
+text {
+  font-family: 'JBMB', monospace;
+  font-weight: bold;
+  font-size: 20px;
+}
+.prompt { fill: #3fb950; }
+.label { fill: #1f2328; }
+@media (prefers-color-scheme: dark) {
+  .label { fill: #e6edf3; }
+}
+</style>
+<text x="4" y="20.4"><tspan class="prompt">#</tspan><tspan class="label"> about</tspan></text>
+</svg>
