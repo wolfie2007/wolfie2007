@@ -58,6 +58,6 @@ text { font-family: 'JBM', monospace; font-size: 12px; fill: #39d353; }
 <text x="634" y="26" opacity="0">:<animate attributeName="opacity" from="0" to="1" begin="1.460s" dur="0.4s" fill="freeze" /></text>
 <text x="634" y="40" opacity="0">:<animate attributeName="opacity" from="0" to="1" begin="1.464s" dur="0.4s" fill="freeze" /></text>
 <text x="634" y="54" opacity="0">+<animate attributeName="opacity" from="0" to="1" begin="1.468s" dur="0.4s" fill="freeze" /></text>
-<text x="634" y="68" opacity="0">:<animate attributeName="opacity" from="0" to="1" begin="1.472s" dur="0.4s" fill="freeze" /></text>
+<text x="634" y="68" opacity="0">+<animate attributeName="opacity" from="0" to="1" begin="1.472s" dur="0.4s" fill="freeze" /></text>
 
 </svg>
