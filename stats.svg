@@ -30,7 +30,7 @@ text { font-family: 'JBM', monospace; }
   .dot { fill: #c9d1d9; }
 }
 </style>
-<text x="0" y="46" class="num">325</text>
+<text x="0" y="46" class="num">324</text>
 <text x="2" y="70" class="sub">contributions in the last year</text>
 
 <text x="616" y="20" class="stat-num">44</text>
