@@ -27,7 +27,7 @@ text { font-family: 'JBM', monospace; }
 
   <g transform="translate(120,0)" opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.6s" fill="freeze" />
-    <text x="0" y="58" text-anchor="middle" class="value">0d</text>
+    <text x="0" y="58" text-anchor="middle" class="value">1d</text>
     <text x="0" y="86" text-anchor="middle" class="label">current streak</text>
   </g>
 
@@ -39,7 +39,7 @@ text { font-family: 'JBM', monospace; }
 
   <g transform="translate(600,0)" opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.30s" dur="0.6s" fill="freeze" />
-    <text x="0" y="58" text-anchor="middle" class="value">355</text>
+    <text x="0" y="58" text-anchor="middle" class="value">356</text>
     <text x="0" y="86" text-anchor="middle" class="label">contributions</text>
   </g>
 <g transform="translate(118, 14)">
