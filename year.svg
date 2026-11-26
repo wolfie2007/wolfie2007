@@ -105,5 +105,6 @@ text { font-family: 'JBM', monospace; font-size: 12px; fill: #39d353; }
 <text x="574" y="96" opacity="0">:<animate attributeName="opacity" from="0" to="1" begin="1.340s" dur="0.4s" fill="freeze" /></text>
 <text x="586" y="82" opacity="0">:<animate attributeName="opacity" from="0" to="1" begin="1.364s" dur="0.4s" fill="freeze" /></text>
 <text x="622" y="26" opacity="0">:<animate attributeName="opacity" from="0" to="1" begin="1.432s" dur="0.4s" fill="freeze" /></text>
+<text x="634" y="54" opacity="0">+<animate attributeName="opacity" from="0" to="1" begin="1.468s" dur="0.4s" fill="freeze" /></text>
 
 </svg>
